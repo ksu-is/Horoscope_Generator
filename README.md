@@ -5,7 +5,12 @@ For IS 3020 Project - A daily horoscope generator. I intend to include a web scr
 You will enter your zodiac sign. If you do not know this, you may enter "don't know" and the program will provide a list of all the zodiac signs and their respective birth dates associated. 
 
 # Resources
-I will be using the following resources to assist with the project.
+
+A related repository on GitHub:
+
+https://github.com/ashutoshkrris/Horoscope-API
+
+I will be using the following resources to assist with the project:
 
 1.	https://hackernoon.com/want-to-learn-python-lets-do-it-with-horoscopes-raq44oo
 2.	https://pypi.org/project/kerykeion/
@@ -13,14 +18,14 @@ I will be using the following resources to assist with the project.
 
 # Roadmap
 
- - Review code examples
- - Determine which code has the best matching base desired
- - Find exisiting websites that produce daily horoscopes
- - Insert webscrape
- - Evaluate if webscrape works
- - Add an area for if the user does not know their zodiac sign
- - Ensure the above menu option works
- - Test & evaluate program
+ > Review code examples
+ > Determine which code has the best matching base desired
+ > Find exisiting websites that produce daily horoscopes
+ > Insert webscrape
+ > Evaluate if webscrape works
+ > Add an area for if the user does not know their zodiac sign
+ > Ensure the above menu option works
+ > Test & evaluate program
 
 # License
 
