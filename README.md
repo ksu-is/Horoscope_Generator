@@ -11,7 +11,19 @@ I will be using the following resources to assist with the project.
 2.	https://pypi.org/project/kerykeion/
 3.	https://www.freecodecamp.org/news/python-project-build-an-api-with-beautiful-soup-and-flask/
 
+# Roadmap
+
+ - Review code examples
+ - Determine which code has the best matching base desired
+ - Find exisiting websites that produce daily horoscopes
+ - Insert webscrape
+ - Evaluate if webscrape works
+ - Add an area for if the user does not know their zodiac sign
+ - Ensure the above menu option works
+ - Test & evaluate program
+
 # License
+
 MIT License
 
 Copyright (c) 2023 Kylee Gipson
