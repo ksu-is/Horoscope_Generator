@@ -19,12 +19,19 @@ I will be using the following resources to assist with the project:
 # Roadmap
 
  > Review code examples
+
  > Determine which code has the best matching base desired
+
  > Find exisiting websites that produce daily horoscopes
+
  > Insert webscrape
+
  > Evaluate if webscrape works
+
  > Add an area for if the user does not know their zodiac sign
+
  > Ensure the above menu option works
+ 
  > Test & evaluate program
 
 # License
