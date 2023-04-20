@@ -6,9 +6,9 @@ This file contains an overview of how this project will progress.
 - [x] Create readme file & fork to KSU-IS
 
 ## Sprint 2
-- [ ] Upload first part of code the create horoscope generator
-- [ ] Add webscrape
-- [ ] Test code to make sure it outputs correctly
+- [x] Upload first part of code the create horoscope generator
+- [x] Add webscrape
+- [x] Test code to make sure it outputs correctly
 
 ## Sprint 3
 - [ ] Complete code
