@@ -11,7 +11,7 @@ This file contains an overview of how this project will progress.
 - [x] Test code to make sure it outputs correctly
 
 ## Sprint 3
-- [ ] Complete code
-- [ ] Edit as necessary
+- [x] Complete code
+- [x] Edit as necessary
 - [ ] Create powerpoint slide & speech
 - [ ] Upload slide
